@@ -1,0 +1,4 @@
+Puerto: 1443
+IP: 10.10.10.25.250
+login sql: IU_datos
+Password: 83jlkz?¿[}.26Z2\
